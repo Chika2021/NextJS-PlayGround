@@ -4,11 +4,10 @@
 
 ---
 
-### Author Links
 
-👋 Hello, I'm Dave Gray.
 
-👉 [My Courses](https://courses.davegray.codes/)
+
+👉 [Courses](https://courses.davegray.codes/)
 
 ✅ [Check out my YouTube Channel with hundreds of tutorials](https://www.youtube.com/DaveGrayTeachesCode).
 
